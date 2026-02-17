@@ -1,6 +1,6 @@
 import React from 'react';
 import { Badge } from '@/components/ui/badge';
-import { ShieldCheck, Star, Users } from 'lucide-react';
+import { ShieldCheck, Star, Users, Shirt, IdCard } from 'lucide-react';
 
 const REQUIREMENTS = [
   {
