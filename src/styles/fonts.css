@@ -1,6 +1,6 @@
 :root {
-  --font-display-family: Cinzel, serif;
-  --font-body-family: Cormorant Garamond, serif;
-  --font-display: var(--font-display-family);
-  --font-body: var(--font-body-family);
+  --font-display: Syne, sans-serif;
+  --font-body: Geist, sans-serif;
+  --font-display-family: Syne;
+  --font-body-family: Geist;
 }
